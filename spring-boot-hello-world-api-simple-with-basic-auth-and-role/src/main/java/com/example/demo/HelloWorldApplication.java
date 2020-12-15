@@ -88,7 +88,7 @@ class AsciiArtCreator {
 		}
 		catch ( IOException e ) {
 			e.printStackTrace();
-			return "Could not get ASCII art";
+			return "Could not get ASCII art, opgiauedjejhfrdpgoiuvdpfgjvbnåoiDFJHNH";
 		}
 		return text;
 	}
